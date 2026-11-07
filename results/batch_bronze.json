@@ -1,0 +1,39 @@
+{
+  "athlete_bio": {
+    "source_url": "https://ftp.goit.study/neoversity/athlete_bio.csv",
+    "rows": 155861,
+    "sha256": "63781c43de4b7376f690b96e86063854034b2e4477a7e16e617a71c26623d356",
+    "columns": [
+      "athlete_id",
+      "name",
+      "sex",
+      "born",
+      "height",
+      "weight",
+      "country",
+      "country_noc",
+      "description",
+      "special_notes"
+    ],
+    "all_columns_read_as_text": true
+  },
+  "athlete_event_results": {
+    "source_url": "https://ftp.goit.study/neoversity/athlete_event_results.csv",
+    "rows": 316834,
+    "sha256": "4a76c66fc6f69a2f69b4a953298d475fd61fb46a40ac5995ea738bc94695905b",
+    "columns": [
+      "edition",
+      "edition_id",
+      "country_noc",
+      "sport",
+      "event",
+      "result_id",
+      "athlete",
+      "athlete_id",
+      "pos",
+      "medal",
+      "isTeamSport"
+    ],
+    "all_columns_read_as_text": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "no_new_input_published": true,
+  "before": {
+    "mysql_rows": 17494,
+    "kafka_end_offset": 17494
+  },
+  "after": {
+    "mysql_rows": 17494,
+    "kafka_end_offset": 17494
+  },
+  "original_batch_progress_preserved": true
+}

@@ -1,0 +1,14 @@
+{
+  "athlete_bio": {
+    "before": 155861,
+    "after": 155861,
+    "duplicates_removed_after_text_cleaning": 0,
+    "text_rule": "trim and collapse whitespace; keep Unicode and punctuation"
+  },
+  "athlete_event_results": {
+    "before": 316834,
+    "after": 315626,
+    "duplicates_removed_after_text_cleaning": 1208,
+    "text_rule": "trim and collapse whitespace; keep Unicode and punctuation"
+  }
+}

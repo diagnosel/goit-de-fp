@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-11-07T17:59:19.175088+00:00",
+  "source_choice": "Private local MySQL populated from full official course CSV files",
+  "remote_course_mysql_used": false,
+  "streaming_events": 316834,
+  "streaming_groups": 10905,
+  "streaming_history_rows_per_sink": 17494,
+  "both_stream_snapshots_checked": true,
+  "batch_groups_checked_in_each_run": 10905,
+  "successful_airflow_runs": 3,
+  "successful_airflow_tasks": 9,
+  "spark_tests_passed": 3,
+  "checkpoint_resume_without_new_input": "PASS",
+  "screenshots": 6,
+  "word_pages_visually_reviewed": 6,
+  "notion_guide": "https://app.notion.com/p/411a96dc80e58113a783d3d0dcdd50cf",
+  "limits": [
+    "No shared transaction between Kafka and MySQL",
+    "No crash-recovery test",
+    "No remote course MySQL used"
+  ]
+}

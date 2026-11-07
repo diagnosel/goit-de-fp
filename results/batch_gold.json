@@ -1,0 +1,13 @@
+{
+  "bio_rows": 155861,
+  "valid_bio_rows": 104153,
+  "invalid_bio_rows": 51708,
+  "event_rows": 315626,
+  "unmatched_athlete_events": 7,
+  "events_with_invalid_measurements": 88747,
+  "joined_rows": 226872,
+  "groups": 10905,
+  "country_source": "athlete_bio.country_noc",
+  "means_weighted_by": "event-result rows, not distinct athletes",
+  "no_medal": "NULL group is kept"
+}

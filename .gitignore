@@ -1,0 +1,11 @@
+.venv*/
+.runtime/
+lake/
+evidence/
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+spark-warehouse/
+*_частина2.docx

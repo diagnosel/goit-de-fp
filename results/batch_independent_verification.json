@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "table_counts": {
+    "athlete_bio": {
+      "bronze": 155861,
+      "silver": 155861
+    },
+    "athlete_event_results": {
+      "bronze": 316834,
+      "silver": 315626
+    }
+  },
+  "groups_checked": 10905,
+  "invalid_bio_rows": 51708,
+  "unknown_athlete_events": 7,
+  "events_with_invalid_bio": 88747,
+  "joined_event_rows": 226872,
+  "every_group_and_mean_matches": true,
+  "no_medal_groups": 6525,
+  "timestamp_present": true
+}

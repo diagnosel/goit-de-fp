@@ -1,0 +1,46 @@
+[
+  {
+    "athlete_id": "147144",
+    "sport": "3x3 Basketball",
+    "medal": "Gold",
+    "event": "3x3 Basketball, Women",
+    "name": "Kelsey Plum",
+    "height": "",
+    "weight": "",
+    "sex": "Female",
+    "country_noc": "USA"
+  },
+  {
+    "athlete_id": "147647",
+    "sport": "3x3 Basketball",
+    "medal": "Gold",
+    "event": "3x3 Basketball, Women",
+    "name": "Jackie Young",
+    "height": "",
+    "weight": "",
+    "sex": "Female",
+    "country_noc": "USA"
+  },
+  {
+    "athlete_id": "147145",
+    "sport": "3x3 Basketball",
+    "medal": "Gold",
+    "event": "3x3 Basketball, Women",
+    "name": "Stefanie Dolson",
+    "height": "196",
+    "weight": "105",
+    "sex": "Female",
+    "country_noc": "USA"
+  },
+  {
+    "athlete_id": "147143",
+    "sport": "3x3 Basketball",
+    "medal": "Gold",
+    "event": "3x3 Basketball, Women",
+    "name": "Allisha Gray",
+    "height": "183",
+    "weight": "76",
+    "sex": "Female",
+    "country_noc": "USA"
+  }
+]
